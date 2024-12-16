@@ -14,7 +14,7 @@
     <div class="signup-container">
       <!-- 로고 및 슬로건 -->
       <div class="logo">
-        <img src="../img/logo.jpg" alt="로고" />
+        <img src="/Coreproject/resources/imgs/logo.jpg" alt="로고" />
       </div>
       <div class="slogan">LUCKY PIGGY</div>
 
